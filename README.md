@@ -54,3 +54,9 @@ subjects with parent directory “Skeletal_Data” and the sub-directories “S1
      Show_Structure.PDF file 
 
    - Download_Link: https://drive.google.com/uc?id=1mNgK7VCXKSs8hhEO5uwnupnmNQW-amnF&export=download (44 MB)
+
+**RGB Data**
+
+The RGB data will be made available soon-
+
+For availability of RGB data. Please mail to:praveenkumar@cse.vnit.ac.in 
