@@ -26,15 +26,15 @@ Format of Video File : S1_A1_001.avi  (S: Subject-1,  A: Activity-1,  001: Sampl
 
 **Depth Data_Link:**
 
-Data_Subject_1:  https://drive.google.com/uc?id=1sjhfOS6Zmi_ZyDy3XlXZJJfB0XBMyMOA&export=download 972 MB
+Data_Subject_1:  https://drive.google.com/uc?id=1sjhfOS6Zmi_ZyDy3XlXZJJfB0XBMyMOA&export=download (972 MB)
 
-Data_Subject_2: https://drive.google.com/uc?id=1aaccXyicNQn7fpa3crvujSo5IvSbdXd4&export=download 1GB
+Data_Subject_2: https://drive.google.com/uc?id=1aaccXyicNQn7fpa3crvujSo5IvSbdXd4&export=download  (1GB)
 
-Data_Subject_3: https://drive.google.com/uc?id=1RHbTY5TksDL-GL5-Z-fmWw-KWi3rUanR&export=download 1GB
+Data_Subject_3: https://drive.google.com/uc?id=1RHbTY5TksDL-GL5-Z-fmWw-KWi3rUanR&export=download  (1GB)
 
-Data_Subject_4: https://drive.google.com/uc?id=1Surbs5DpiylOrWZmvdXiE3i0H1s_pQRy&export=download 1.3 GB
+Data_Subject_4: https://drive.google.com/uc?id=1Surbs5DpiylOrWZmvdXiE3i0H1s_pQRy&export=download  (1.3GB)
 
-Data_Subject_5: https://drive.google.com/uc?id=1vLI_AgHSQHAffHuh1E_JzY3r61TrDaQ8&export=download 1.1 GB
+Data_Subject_5: https://drive.google.com/uc?id=1vLI_AgHSQHAffHuh1E_JzY3r61TrDaQ8&export=download  (1.1GB)
 
 
 **Skeleton Data:**
@@ -53,4 +53,4 @@ subjects with parent directory “Skeletal_Data” and the sub-directories “S1
      the dataset and the implemented, tested, and published code with MATLAB 2021 is given in
      Show_Structure.PDF file 
 
-Download_Link: https://drive.google.com/file/d/1mNgK7VCXKSs8hhEO5uwnupnmNQW-amnF/view?usp=sharing
+   - Download_Link: https://drive.google.com/uc?id=1mNgK7VCXKSs8hhEO5uwnupnmNQW-amnF&export=download (44 MB)
